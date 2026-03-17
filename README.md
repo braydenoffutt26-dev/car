@@ -12,7 +12,7 @@
      - Nitro fuel
 
 2. Coding libraries:
-   - 
+   - (I dont know yet because my engine has still not arrived as of 3/17 and therefore I cannot find additional parts yet because I do not know specifications of the engine)
 
 3. Tracked variables:
    - Degree of steering
